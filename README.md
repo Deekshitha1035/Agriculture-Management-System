@@ -39,7 +39,12 @@ docs/ - Project documentation & diagrams
    ```
 
 ## 📸 Screenshots
-_Add screenshots from docs/Screenshots/_
+<img width="868" height="490" alt="image" src="https://github.com/user-attachments/assets/15e84463-b944-4c49-80b1-703d494ebaf3" />
+<img width="868" height="490" alt="image" src="https://github.com/user-attachments/assets/6833732e-83fd-488e-9589-53b74b098afc" />
+<img width="868" height="490" alt="image" src="https://github.com/user-attachments/assets/8bab5334-89ec-471b-9406-3f3dd9cc3625" />
+
+
+
 
 ## 🧩 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
