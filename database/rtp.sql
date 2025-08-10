@@ -1,0 +1,1 @@
+-- SQL dump placeholder for Agriculture Management System database
