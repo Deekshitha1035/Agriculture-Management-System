@@ -35,7 +35,7 @@ docs/ - Project documentation & diagrams
 4. Start a local server (XAMPP/WAMP/MAMP).
 5. Access in browser:
    ```
-   http://localhost/Agriculture-Management-System/src/index.html
+   https://agriculture-managemen.netlify.app/
    ```
 
 ## 📸 Screenshots
